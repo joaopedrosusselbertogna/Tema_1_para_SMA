@@ -30,7 +30,7 @@
         <item id="loginPartIdText">Entre com seu apelido/código</item>
         <item id="accessCodeWarning"></item>
         <item id="partIdWarning"></item>
-        <item id="loginHeaderText">No campo abaixo, você deve digitar um código que consiste na letra inicial do seu nome + data de nascimento da mãe. Por exemplo, se a pessoa se chamar Valter e sua mãe nasceu em 05/06/1970 seu código será V05061970. Esse mesmo código deverá ser inserido em cada um dos três questionários a serem respondidos. A identidade dos respondentes será preservada; o código/apelido tem apenas função de codificar o participante para futuras análises de dados.</item>
+        <item id="loginHeaderText">No campo abaixo, você precisa digitar um código, indicamos que coloque a letra inicial do seu nome + data de nascimento da mãe. Por exemplo, se a pessoa se chamar Daniel e sua mãe nasceu em 05/06/1990 seu código será D05061990. Esse mesmo código deverá ser inserido em cada um dos três questionários a serem respondidos. A identidade dos respondentes será preservada; o código/apelido tem apenas função de codificar o participante para futuras análises de dados.</item>
         <item id="loginWelcomeText">{{{center}}}{{{h3}}}Seja bem vindo(a)!{{{/h3}}}{{{/center}}}{{{br/}}} Agradecemos sua participação nessa pesquisa.</item>
         <item id="landingHelpModalHead">Bem vindo(a)!</item>
         <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
